@@ -1,0 +1,2 @@
+sdk version 2.0.0_16_08_10, with special patch from Angus at Espressif.
+
