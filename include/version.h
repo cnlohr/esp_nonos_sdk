@@ -1,0 +1,13 @@
+#ifndef ESP_SDK_VERSION_H
+#define ESP_SDK_VERSION_H
+
+#define ESP_SDK_VERSION_MAJOR   1
+#define ESP_SDK_VERSION_MINOR   5
+#define ESP_SDK_VERSION_PATCH   2
+
+#define ESP_SDK_VERSION_NUMBER 0x010502
+#define ESP_SDK_VERSION_STRING  "1.5.2"
+
+#endif
+
+
